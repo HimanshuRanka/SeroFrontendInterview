@@ -14,7 +14,7 @@ import {CardDataTask3} from "./constants";
 
 /**
 
-    Task 1: Use the Card prop along with any other JS method or React component to
+    Task 1: Use the Semantic UI Card component along with any other JS method or React component to
             display the data in CardDataTask1 in the <div> below in a single row.
             Make sure all the cards are seperated by section and they dont flow off the page
 
@@ -29,7 +29,6 @@ import {CardDataTask3} from "./constants";
     Task 3: The Data in CardDataTask3 has a field called "Countries." This is an array of strings.
             Write a utility method that takes this array and converts it into a single comma
             seperated string.
-            Oral: if you had to replace the first letter of each country with a number, how would u do it.
     Ex:     [India, China, USA] --> "India, China, USA"
 
  */
